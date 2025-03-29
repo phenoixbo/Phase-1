@@ -1,0 +1,4 @@
+Pradeep: Average = 82.33, Max = 90, Min = 75
+Rooban: Average = 86.33, Max = 91, Min = 80
+Ganesan: Average = 86.67, Max = 94, Min = 77
+Sudha: Average = 81.00, Max = 85, Min = 78
