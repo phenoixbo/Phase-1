@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+}
+
+.header {
+  background-color: #007bff;
+  padding: 10px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  text-decoration: none;
+}
+
+.header a {
+  color: white;
+  text-decoration: none;
+}
+
+h2 {
+  color: #333;
+  margin-bottom: 15px;
+}

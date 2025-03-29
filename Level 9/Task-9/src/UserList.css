@@ -1,0 +1,14 @@
+.user-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #e0e0ff;
+    border-bottom: 1px solid #ccc;
+    padding: 10px;
+    transition: background-color 0.2s;
+  }
+  
+  .user-item:hover {
+    background-color: #c0c0ff;
+  }
+  
