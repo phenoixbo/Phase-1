@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "67e229a79e11b607cd9513fa"
+  },
+  "date": 0.00016460905349794237,
+  "product": "watch",
+  "quantity": 10
+},
+{
+  "_id": {
+    "$oid": "67e229a79e11b607cd9513fb"
+  },
+  "date": 0.00032921810699588475,
+  "product": "bed",
+  "quantity": 20
+},
+{
+  "_id": {
+    "$oid": "67e229a79e11b607cd9513fc"
+  },
+  "date": 0.0004938271604938272,
+  "product": "mobile",
+  "quantity": 30
+},
+{
+  "_id": {
+    "$oid": "67e229a79e11b607cd9513fd"
+  },
+  "date": 0.0004938271604938272,
+  "product": "laptop",
+  "quantity": 40
+},
+{
+  "_id": {
+    "$oid": "67e229a79e11b607cd9513fe"
+  },
+  "date": 0.0004938271604938272,
+  "product": "soap",
+  "quantity": 50
+}]
