@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Task-10</title>
+</head>
+<body>
+
+    <h1 style="color: blue; text-align: center;">Welcome to Task-10</h1>
+    <p style="color: green; font-size: 18px ; text-align: center;"> Template Literals</p>
+
+    <script>
+    let firstName = "Pradeep";
+    let lastName = "G";
+    let age = 21;
+    let fullNameSentence = `My name is ${firstName} ${lastName}.`;
+    let multiLineTemplate = `
+    Hello, ${firstName} ${lastName}!
+    You are ${age} years old.
+    In 5 years, you will be ${age + 5} years old.
+`;
+    let ageMessage = `${age >= 18 ? "You are an adult." : "You are a minor."}`;
+
+
+     console.log(fullNameSentence);    
+     console.log(multiLineTemplate);      
+     console.log(ageMessage);             
+
+    </script>
