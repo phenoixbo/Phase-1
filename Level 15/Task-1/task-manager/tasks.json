@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Finish homework",
+    "description": "This is used to do all the Crud operation",
+    "status": "completed",
+    "createdAt": "2025-03-25T04:48:01.595Z"
+  },
+  {
+    "id": 2,
+    "title": "Finish homework",
+    "description": "Complete all math exercises",
+    "status": "pending",
+    "createdAt": "2025-03-25T04:49:40.057Z"
+  }
+]
