@@ -1,0 +1,47 @@
+[{
+  "_id": {
+    "$oid": "67e0ddd55e1d9cfb9fe9d3af"
+  },
+  "name": "pradeep",
+  "age": 21,
+  "grade": 86
+},
+{
+  "_id": {
+    "$oid": "67e0ddd55e1d9cfb9fe9d3b0"
+  },
+  "name": "vimal",
+  "age": 19,
+  "grade": 87
+},
+{
+  "_id": {
+    "$oid": "67e0ddd55e1d9cfb9fe9d3b1"
+  },
+  "name": "niranjan",
+  "age": 16,
+  "grade": 89
+},
+{
+  "_id": {
+    "$oid": "67e0ddd55e1d9cfb9fe9d3b2"
+  },
+  "name": "akash",
+  "age": 20,
+  "grade": 88
+},
+{
+  "_id": {
+    "$oid": "67e0ddd55e1d9cfb9fe9d3b3"
+  },
+  "name": "gowtham",
+  "age": 16,
+  "grade": 89
+},
+{
+  "_id": {
+    "$oid": "67e0e13884a36130fe91b3c3"
+  },
+  "name": "Alice",
+  "age": 16
+}]

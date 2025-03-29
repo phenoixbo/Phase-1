@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "67e0fb822821f2e283974545"
+  },
+  "name": "Watch",
+  "price": 300,
+  "category": "steel",
+  "stock": "have"
+},
+{
+  "_id": {
+    "$oid": "67e0fb822821f2e283974546"
+  },
+  "name": "Bed",
+  "price": 600,
+  "category": "furniture",
+  "stock": "have"
+},
+{
+  "_id": {
+    "$oid": "67e0fb822821f2e283974547"
+  },
+  "name": "bag",
+  "price": 200,
+  "category": "leather",
+  "stock": "have"
+},
+{
+  "_id": {
+    "$oid": "67e0fb822821f2e283974548"
+  },
+  "name": "laptop",
+  "price": 50000,
+  "category": "electronics",
+  "stock": "have"
+},
+{
+  "_id": {
+    "$oid": "67e0fb822821f2e283974549"
+  },
+  "name": "mobile",
+  "price": 20000,
+  "category": "electroniocs",
+  "stock": "have"
+},
+{
+  "_id": {
+    "$oid": "67e0fb822821f2e28397454a"
+  },
+  "name": "stove",
+  "price": 6000,
+  "category": "steel",
+  "stock": "not have"
+},
+{
+  "_id": {
+    "$oid": "67e0fb822821f2e28397454b"
+  },
+  "name": "notebook",
+  "price": 50,
+  "category": "paper",
+  "stock": "nothave"
+}]
